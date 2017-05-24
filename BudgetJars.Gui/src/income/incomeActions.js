@@ -1,5 +1,3 @@
-'use strict'
-
 import store from '../store';
 import { get, post, put } from '../modules/apiClient';
 
